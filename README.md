@@ -16,3 +16,14 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Big Data](https://www.youtube.com/watch?v=mlbe7Vxr7yA&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=6)🎥
 - [Codezilla](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)🎥
 - [El Zero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)🎥
+
+### Pandas
+- [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)🎥
+- [Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)🎥
+- [FreeCodeCamp](https://www.youtube.com/watch?v=gtjxAH8uaP0)🎥
+- [Arbic](https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW)🎥
+- [Learn pandas| Kaggle](https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW)📕
+  ### Numpy
+- [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK)🎥
+- [FreeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=2844s)🎥
+- [Kaggle](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science)📕
