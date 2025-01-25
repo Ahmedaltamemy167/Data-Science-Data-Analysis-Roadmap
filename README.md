@@ -90,4 +90,13 @@ Each track includes courses and skills that will help you advance in your career
 ### Advanced Power Bi
 - [Zanoon Lab](https://www.youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)
 - [Fouad Zawadi](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA)
-- 
+- [Munthir Saffan](https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)
+### projects
+- [Power BI Project For Beginners | Sales Insights](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+## Advanced Machine Learning  
+### Linear Algebra 
+- [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
+- [Arabic](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ)
+### Calculus
+- [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Arabic](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb)
