@@ -106,13 +106,32 @@ Each track includes courses and skills that will help you advance in your career
 - [English Course](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning) 🎥 
 - [Arabic Course](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb) 🎥
 ### Machine Learning
-- [Course](https://www.coursera.org/specializations/machine-learning-introduction) 🎥 
+- [Supervised Learning Course](https://www.coursera.org/learn/machine-learning) 🎥
+- [Unsupervised & Reinforcement Learning Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) 🎥
+- [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) 🎥
 - [Book](https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view) 📕
 ### Model Deployment
  Learn how to deploy models and turn your solutions into production-ready applications.
 - [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 🎥
 - [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 🎥
 - [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 🎥
+
+## Phase 2 - Deep Learning
+### Deep Learning
+- [Neural Networks Course](https://www.coursera.org/learn/neural-networks-deep-learning) 🎥
+- [Improving Deep Neural Networks Course](https://www.coursera.org/learn/neural-networks-deep-learning) 🎥
+- [Convolutional Neural Networks Course](https://www.coursera.org/learn/convolutional-neural-networks) 🎥
+- [Recurrent Neural Networks Course](https://www.coursera.org/learn/convolutional-neural-networks) 🎥
+- [Refrence Book](https://drive.google.com/file/d/13Wtm31to-t9JC_refigVUfVEnnNf-enh/view) 📕
+### Pytorch
+When to use? ease of use makes it perfect for research and prototyping custom models, e.g. building and experimenting with a GAN for image synthesis.
+- [Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) 🎥
+### Tenserflow
+When to use? for deploying large-scale production models, e.g. training and deploying an image classification model 
+- [Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) 🎥
+
+
+
 
 
 
