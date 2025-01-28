@@ -1,6 +1,6 @@
-# Data Science & Machine Learning Roadmap
+# Data Science Roadmap
 
-Welcome to the **Data Science and Machine Learning Roadmap**! 🚀  
+Welcome to the **Data Science Roadmap**! 🚀  
 This repository provides a structured and comprehensive guide for anyone interested in learning data science and Machine Learning, whether you're a beginner or looking to advance your skills.
 
 ## (Choose one of these courses for every topic)
@@ -81,7 +81,7 @@ You can now proceed with one of the following tracks:
 Alternatively, you can choose to study both tracks consecutively to gain comprehensive knowledge.  
 Each track includes courses and skills that will help you advance in your career.  
 
-<h3 align="center">Advanced Data Analysis </h3> 
+<h1 id= "advanced-data-analysis" align="center">Advanced Data Analysis </h1> 
 
 ### Advanced database
 - [iti Course](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) ([matrial](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1?fbclid=IwZXh0bgNhZW0CMTEAAR0iT0KETBkBlMakXe2Uu_OAfo8xDfE0gC8C_xXc8wC9P3aHrKb7jjGSOwQ_aem_aY3q9dDyqNUw1qz2tnv2Kw)) and
@@ -96,7 +96,7 @@ Each track includes courses and skills that will help you advance in your career
 ### projects
 - [Power BI Project For Beginners | Sales Insights](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
   
-<h3 align="center">Advanced Machine Learning </h3> 
+<h1 id="advanced-machine-learning" align="center">Advanced Machine Learning </h1> 
 
 ## Phase 1 - Machine Learning
 ### Linear Algebra 
