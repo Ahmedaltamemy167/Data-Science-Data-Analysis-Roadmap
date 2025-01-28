@@ -1,7 +1,7 @@
-# Data Science Data & Analysis Roadmap
+# Data Science & Machine Learning Roadmap
 
-Welcome to the **Data Science and Data Analysis Roadmap**! 🚀  
-This repository provides a structured and comprehensive guide for anyone interested in learning data science and data analysis, whether you're a beginner or looking to advance your skills.
+Welcome to the **Data Science and Machine Learning Roadmap**! 🚀  
+This repository provides a structured and comprehensive guide for anyone interested in learning data science and Machine Learning, whether you're a beginner or looking to advance your skills.
 
 ## (Choose one of these courses for every topic)
 
@@ -81,7 +81,7 @@ You can now proceed with one of the following tracks:
 Alternatively, you can choose to study both tracks consecutively to gain comprehensive knowledge.  
 Each track includes courses and skills that will help you advance in your career.  
 
-## Advanced Data Analysis  
+<h3 align="center">Advanced Data Analysis </h3> 
 ### Advanced database
 - [iti Course](https://www.youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_) ([matrial](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1?fbclid=IwZXh0bgNhZW0CMTEAAR0iT0KETBkBlMakXe2Uu_OAfo8xDfE0gC8C_xXc8wC9P3aHrKb7jjGSOwQ_aem_aY3q9dDyqNUw1qz2tnv2Kw)) and
 - [Sql Bi](https://www.youtube.com/playlist?list=PLSGEGD0dbMKpih5QzGQfwU86d8TB-O24a)
@@ -94,10 +94,25 @@ Each track includes courses and skills that will help you advance in your career
 - [Munthir Saffan](https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)
 ### projects
 - [Power BI Project For Beginners | Sales Insights](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-## Advanced Machine Learning  
+  
+<h3 align="center">Advanced Machine Learning </h3> 
+
+## Phase 1 - Machine Learning
 ### Linear Algebra 
-- [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
-- [Arabic](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ)
+- [English Course](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) 🎥 
+- [Arabic Course](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ) 🎥 
 ### Calculus
-- [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
-- [Arabic](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb)
+- [English Course](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning) 🎥 
+- [Arabic Course](https://www.youtube.com/playlist?list=PLJM7jJIw2GC1QOEq2RoIXSu08dT037xXb) 🎥
+### Machine Learning
+- [Course](https://www.coursera.org/specializations/machine-learning-introduction) 🎥 
+- [Book](https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view) 📕
+### Model Deployment
+ Learn how to deploy models and turn your solutions into production-ready applications.
+- [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 🎥
+- [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 🎥
+- [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 🎥
+
+
+
+  
