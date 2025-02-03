@@ -112,9 +112,9 @@ Each track includes courses and skills that will help you advance in your career
 - [Book](https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view) 📕
 ### Model Deployment
  Learn how to deploy models and turn your solutions into production-ready applications.
-- [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 🎥
-- [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 🎥
-- [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 🎥
+- [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 📺
+- [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 📺
+- [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 📺
 
 ## Phase 2 - Deep Learning
 ### Deep Learning
@@ -130,8 +130,23 @@ When to use? ease of use makes it perfect for research and prototyping custom mo
 When to use? for deploying large-scale production models, e.g. training and deploying an image classification model 
 - [Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) 🎥
 
+## Phase 3 - Specialization ( Choose wether to dive into NLP or CV)
+
+## Natural Language Processing - NLP
+- This field concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data.
+### Transformers
+- [Abu Bakr Soliman - Video](https://www.coursera.org/learn/generative-ai-with-llms) 📺
+### NLP
+- [Coursera Specialization ](https://www.coursera.org/specializations/natural-language-processing) 🎥
+- [Standford 2021 - Playlist](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) 🎥
+- [Ahmed Elsalab - Arabic Course](https://coursat-ai.github.io/NLP/) 🎥
+### LLMs
+- [Standford Lecture](https://www.youtube.com/watch?v=9vM4p9NN0Ts) 📺
+- [Gen AI with LLM Course](https://www.coursera.org/learn/generative-ai-with-llms) 🎥
+- [UC Berkely - Playlist](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) 🎥
 
 
+> to be continued.....
 
 
 
