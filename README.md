@@ -97,7 +97,8 @@ Each track includes courses and skills that will help you advance in your career
 - [Munthir Saffan](https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw)
 ### projects
 - [Power BI Project For Beginners | Sales Insights](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-  
+
+> to be continued.....  
 <h1 id="advanced-machine-learning" align="center">Advanced Machine Learning </h1> 
 
 ## Phase 1 - Machine Learning
