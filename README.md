@@ -38,6 +38,7 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Arbic](https://www.youtube.com/watch?v=TXiKPcbHmO8&list=PL3pZ0ZEStTyS2WYctpa6n3mxUW1GMlaQV&index=4) 🎥  
 - [Article](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)  
 - [Bad Data](https://drive.google.com/file/d/1i13WL-9wONr2h1-_mB6T6TV5YJoeyDzV/view) 📕  
+#### **Task:** [Solve this](https://drive.google.com/drive/folders/1aVEB6NO6EHk6Z2_oLBpoaYtY1WWqytmu?usp=drive_link).  
 
 ### Data Visualization  
 [From Data to vis](https://www.data-to-viz.com/) 🕸️  
