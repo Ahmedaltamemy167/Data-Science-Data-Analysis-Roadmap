@@ -12,13 +12,16 @@ This repository provides a structured and comprehensive guide for anyone interes
 ### Descriptive Statistics 
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) 🎥  
 - [Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=gQLmBslqd32JTWSE) (On YouTube) 🎥  
-- [Arbic Course](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) 🎥  
+- [Arbic Course](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) 🎥
+
 #### **Task:** [Solve this](https://docs.google.com/document/d/1Vd6U4c3G_1yb4Zc6LwsgK-tUuo5pw1rbfJ6zvTGOOo4/edit?tab=t.0)
+
 ### Python  
 Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1)  
 - [Big Data](https://www.youtube.com/watch?v=mlbe7Vxr7yA&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=6) 🎥  
 - [Codezilla](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) 🎥  
-- [El Zero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) 🎥  
+- [El Zero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) 🎥    
+#### **Task:** [Solve this](https://colab.research.google.com/drive/1dqOirkxIKVTP-ifERIsQLKwOYKfWL5Y_?usp=sharing)
 
 ### Pandas  
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) 🎥  
@@ -26,7 +29,8 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Alex The Analyst](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE) 🎥  
 - [FreeCodeCamp](https://www.youtube.com/watch?v=gtjxAH8uaP0) 🎥  
 - [Arbic](https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW) 🎥  
-- [Learn pandas | Kaggle](https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW) 📕  
+- [Learn pandas | Kaggle](https://www.youtube.com/playlist?list=PLuRv1IekA3YVwzaWa2Kp7bgIVcJsJ5XGW) 📕
+- The Task After (Data Cleaning)
 
 ### Numpy  
 - [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK) 🎥  
@@ -46,7 +50,9 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 #### Matplotlib  
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) 🎥  
 - [Arbic](https://www.youtube.com/playlist?list=PLuRv1IekA3YUdhJNrsn-nK71yvTc45OlW) 🎥  
-- [matplotlib-practice](https://www.kaggle.com/code/mennahelsheikh/matplotlib-practice) 🖋️  
+- [matplotlib-practice](https://www.kaggle.com/code/mennahelsheikh/matplotlib-practice) 🖋️
+    
+#### **Task:** [Solve this](https://drive.google.com/drive/folders/1gK_r5QdpIUe_jlbwWK-EsWL9AomyGtbi)
 
 #### Seaborn  
 - [Intro to Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) 🎥  
