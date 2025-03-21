@@ -59,7 +59,7 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Seaborn Beginner to Pro](https://www.youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2) 🎥
 
 ### Exploratory Data Analysis  
-[EDA (Hossam Taha)](https://youtu.be/8D1L8hOmFkA?si=ikyVRm0iwBPV8OsU) 🎥
+- [Hossam Taha](https://youtu.be/8D1L8hOmFkA?si=ikyVRm0iwBPV8OsU) 🎥
 
 #### NoteBooks(after finish Beginner level)
 1. [animal dataset](https://docs.google.com/document/d/1oKKx0K4X1HjRiFieA4tozWFMKa2p0MOaN9ldBhr8LsI/edit?tab=t.0)
