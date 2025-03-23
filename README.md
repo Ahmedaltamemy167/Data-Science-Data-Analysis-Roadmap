@@ -58,7 +58,7 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Intro to Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) 🎥  
 - [Seaborn Beginner to Pro](https://www.youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2) 🎥
 
-#### **Task:** [Solve this]([https://drive.google.com/drive/folders/1gK_r5QdpIUe_jlbwWK-EsWL9AomyGtbi](https://drive.google.com/drive/folders/1xSLZisGAx8XhR7HwwHAvl-3izjAQ82By?usp=drive_link))
+#### **Task:** [Solve this]([https://drive.google.com/drive/folders/1gK_r5QdpIUe_jlbwWK-EsWL9AomyGtbi])
 
 ### Exploratory Data Analysis  
 - [Hossam Taha](https://youtu.be/8D1L8hOmFkA?si=ikyVRm0iwBPV8OsU) 🎥
