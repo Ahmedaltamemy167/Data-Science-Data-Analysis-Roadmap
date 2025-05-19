@@ -14,7 +14,7 @@ This repository provides a structured and comprehensive guide for anyone interes
 - [Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=gQLmBslqd32JTWSE) (On YouTube) 🎥  
 - [Arbic Course](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) 🎥
 
-#### **Task:** [Solve this](https://docs.google.com/document/d/1Vd6U4c3G_1yb4Zc6LwsgK-tUuo5pw1rbfJ6zvTGOOo4/edit?tab=t.0)
+#### **Task:** [Solve this](https://docs.google.com/document/d/1Vd6U4c3G_1yb4Zc6LwsgK-tUuo5pw1rbfJ6zvTGOOo4/edit?usp=drivesdk)
 
 ### Python  
 Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1)  
