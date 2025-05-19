@@ -42,7 +42,7 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Arbic](https://www.youtube.com/watch?v=TXiKPcbHmO8&list=PL3pZ0ZEStTyS2WYctpa6n3mxUW1GMlaQV&index=4) 🎥  
 - [Article](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)  
 - [Bad Data](https://drive.google.com/file/d/1i13WL-9wONr2h1-_mB6T6TV5YJoeyDzV/view) 📕  
-#### **Task:** [Solve this](https://drive.google.com/drive/folders/1aVEB6NO6EHk6Z2_oLBpoaYtY1WWqytmu?usp=drive_link).  
+#### **Task:** [Solve this](https://drive.google.com/drive/folders/1R2v4YNGWXWgrFoSdJXFaMJ1bpjp1byP8).  
 
 ### Data Visualization  
 [From Data to vis](https://www.data-to-viz.com/) 🕸️  
@@ -52,13 +52,13 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 - [Arbic](https://www.youtube.com/playlist?list=PLuRv1IekA3YUdhJNrsn-nK71yvTc45OlW) 🎥  
 - [matplotlib-practice](https://www.kaggle.com/code/mennahelsheikh/matplotlib-practice) 🖋️
     
-#### **Task:** [Solve this](https://drive.google.com/drive/folders/1gK_r5QdpIUe_jlbwWK-EsWL9AomyGtbi)
+#### **Task:** [Solve this](https://drive.google.com/drive/folders/1LLbdS5YA3VGDjqom19iDCK0zdBnC4OXu)
 
 #### Seaborn  
 - [Intro to Seaborn](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) 🎥  
 - [Seaborn Beginner to Pro](https://www.youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2) 🎥
 
-#### **Task:** [Solve this](https://drive.google.com/drive/folders/1xSLZisGAx8XhR7HwwHAvl-3izjAQ82By)
+#### **Task:** [Solve this](https://drive.google.com/drive/folders/1B1IXpIN99MyIIyO3GNzvv_vppiu1Ddp9)
 
 ### Exploratory Data Analysis  
 - [Hossam Taha](https://youtu.be/8D1L8hOmFkA?si=ikyVRm0iwBPV8OsU) 🎥
